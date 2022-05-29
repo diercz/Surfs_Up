@@ -43,6 +43,6 @@ June presents some of the hottest days in the month ranging from 77-85 degrees. 
 
 I also decided to analyze the amount of precipitation Oahu, Hawaii receives in June and December.  From the data we can conclude that in June, majority of precipiation is less than .12 mm vs December where they average .15 mm of rainfall a day.  This is not a varying difference in rainfall averages between the two months.  
 
-![June_Precipitation.png](https://github.com/diercz/Surfs_Up/blob/main/June_Precipitation.png) ![December_Precipitation](https://github.com/diercz/Surfs_Up/blob/main/December_Precipitation.png)
+![June_Precipitation.png](https://github.com/diercz/Surfs_Up/blob/main/June_Precipitation.png)          ![December_Precipitation](https://github.com/diercz/Surfs_Up/blob/main/December_Precipitation.png)
 
 After analyzing the temperatures and rainfall for the two risky months at Oahu, Hawaii we have deteremined there is minimal threats to opening up this shop and operating the business year round.
